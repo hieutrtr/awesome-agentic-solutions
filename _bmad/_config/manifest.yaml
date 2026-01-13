@@ -1,7 +1,7 @@
 installation:
-  version: 6.0.0-alpha.21
-  installDate: 2025-12-27T07:03:08.636Z
-  lastUpdated: 2025-12-27T07:03:08.636Z
+  version: 6.0.0-alpha.23
+  installDate: 2026-01-13T10:35:21.505Z
+  lastUpdated: 2026-01-13T10:35:21.505Z
 modules:
   - core
   - bmb
@@ -9,3 +9,4 @@ modules:
   - allmad-opensource
 ides:
   - claude-code
+  - antigravity

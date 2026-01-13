@@ -42,3 +42,8 @@ name,description,module,path
 "workflow-status","Lightweight status checker - answers """"what should I do now?"""" for any agent. Reads YAML status file for workflow tracking. Use workflow-init for new projects.","bmm","_bmad/bmm/workflows/workflow-status/workflow.yaml"
 "Opensource Codebase Analyser","Analyze opensource codebases to create comprehensive reviews including overview, tech stack, use cases, pros/cons, and alternatives","allmad-opensource","_bmad/allmad-opensource/workflows/opensource-analyser/workflow.md"
 "what-next-opensource","Strategic open source planning workflow that helps developers identify high-potential open source project opportunities through interactive brainstorming and trend analysis","allmad-opensource","_bmad/allmad-opensource/workflows/what-next-opensource/workflow.md"
+"agent","Tri-modal workflow for creating, editing, and validating BMAD Core compliant agents","bmb","_bmad/bmb/workflows/agent/workflow.md"
+"module","Quad-modal workflow for creating BMAD modules (Brief + Create + Edit + Validate)","bmb","_bmad/bmb/workflows/module/workflow.md"
+"workflow","Create structured standalone workflows using markdown-based step architecture (tri-modal: create, validate, edit)","bmb","_bmad/bmb/workflows/workflow/workflow.md"
+"prd","PRD tri-modal workflow - Create, Validate, or Edit comprehensive PRDs","bmm","_bmad/bmm/workflows/2-plan-workflows/prd/workflow.md"
+"quick-spec","Conversational spec engineering - ask questions, investigate code, produce implementation-ready tech-spec.","bmm","_bmad/bmm/workflows/bmad-quick-flow/quick-spec/workflow.md"
